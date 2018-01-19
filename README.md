@@ -1,1 +1,3 @@
 # exercises
+
+various coding exercises
